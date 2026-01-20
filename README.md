@@ -1,4 +1,4 @@
-# SFCC Storelocator Export Script Python to .CSV file
+# SFCC Storelocator Export Script Python from .XML to .CSV file
 Hi everyone!
 I've created a Python script to retrieve/extract specific attributes from SFCC standard generated Store Locator XML files and convert them into CSV format.
 
